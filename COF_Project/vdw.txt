@@ -1,0 +1,27 @@
+set sel [atomselect top "name 1"]
+$sel set radius 1.70
+$sel delete
+
+set sel [atomselect top "name 2"]
+$sel set radius 1.20
+$sel delete
+
+set sel [atomselect top "name 3"]
+$sel set radius 1.70
+$sel delete
+
+set sel [atomselect top "name 4"]
+$sel set radius 1.52
+$sel delete
+
+set sel [atomselect top "name 5"]
+$sel set radius 1.55
+$sel delete
+
+set sel [atomselect top "name 6"]
+$sel set radius 1.63
+$sel delete
+
+set sel [atomselect top "name 7"]
+$sel set radius 5.05
+$sel delete

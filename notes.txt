@@ -1,0 +1,27 @@
+All 5 C60s always start at optimum distance. However, as time goes on, the random
+motion of the molecules causes the distance between at least one pair of C60 molecules
+to become massive, making it hard for electrons to transfer between all 5 molecules.
+The most probable reason for this would be that the C60s are not as tightly packed
+as they could be, due to the poor structure of the Pc-Ph COF system
+
+IMPORTANT:
+With lower temperatures, the diffusion coefficient would be lower, and thus the electrons
+could move through the C60s optimally; that is, assuming that the C60s were in the optimal
+positions in the first place. 
+The issue with the lower temperatures is that it will be very difficult for the C60s to
+move into the optimal positions. For them to do so, the temperature would have to be
+high. The problem with this approach though is that the diffusion coefficient would be
+higher, causing for more random motion from the C60s. This will cause large gaps in the
+system between C60s, decreasing the effective electronic mobility, as shown in our data.
+
+Conclusion:
+We believe that there is an optimum range of temperatures 
+
+
+
+DIFFUSION COEFFICIENT:
+
+
+ELECTRON MOBILITY:
+Represent the data in boxplots. Can possibly do 2 of them. One for time t = ~100ps
+while the last one is for time t = 1000ps or 1ns
