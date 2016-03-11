@@ -1,4 +1,4 @@
-from attempt4 import *
+from findDiffCoeff import *
 
 file = open('COF_Project/Single_C60/200.dump.bucky.txt', 'r')
 segments = open('COF_Project/Single_C60/points-200.txt', 'w')
